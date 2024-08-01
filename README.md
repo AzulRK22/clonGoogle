@@ -9,7 +9,8 @@ El proyecto está compuesto por los siguientes archivos:
 - `index.html`: El archivo principal que contiene la estructura HTML.
 - `styles.css`: El archivo de estilos CSS para diseñar la página.
 - `assets/`: Carpeta que contiene imágenes utilizadas en el proyecto (por ejemplo, `google.webp`, `foto azul.png`, y `logo.png`).
-
+  
+## Desplegado (https://portafolio-azulrk-2024.vercel.app/)](https://portafolio-azulrk-2024.vercel.app/)
 ## Descripción del Contenido
 
 ### index.html
