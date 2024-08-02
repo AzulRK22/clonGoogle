@@ -1,66 +1,63 @@
-# Proyecto Google Clone
+# Google Clone Project
 
-Este proyecto es una recreación de la página principal de Google utilizando HTML y CSS. Está diseñado para practicar el desarrollo web frontend y la maquetación con HTML y CSS.
+This project is a recreation of Google's homepage using HTML and CSS. It is designed to practice frontend web development and layout using HTML and CSS.
 
-## Estructura del Proyecto
+## Project Structure
 
-El proyecto está compuesto por los siguientes archivos:
+The project consists of the following files:
 
-- `index.html`: El archivo principal que contiene la estructura HTML.
-- `styles.css`: El archivo de estilos CSS para diseñar la página.
-- `assets/`: Carpeta que contiene imágenes utilizadas en el proyecto (por ejemplo, `google.webp`, `foto azul.png`, y `logo.png`).
-  
-## Desplegado [(https://clon-google-omega.vercel.app/)]
-## Descripción del Contenido
+- `index.html`: The main file containing the HTML structure.
+- `styles.css`: The CSS file for styling the page.
+- `assets/`: Folder containing images used in the project (e.g., `google.webp`, `foto azul.png`, and `logo.png`).
+
+## Deployment [(https://clon-google-omega.vercel.app/)]
+
+## Content Description
 
 ### index.html
 
-El archivo HTML contiene la estructura básica de la página, organizada en diferentes secciones:
+The HTML file contains the basic structure of the page, organized into different sections:
 
-- **Head**: Contiene los metadatos del documento, el título de la página, el favicon y el enlace al archivo de estilos CSS.
-- **Header**: Incluye una barra de navegación con enlaces a Gmail, Imágenes y el perfil del usuario.
-- **Main**: Contiene el logotipo de Google, la barra de búsqueda con iconos SVG y botones para realizar la búsqueda.
-- **Footer**: Incluye información sobre la ubicación (México) y enlaces a páginas como Sobre Google, Publicidad, Negocios, etc.
+- **Head**: Contains document metadata, the page title, the favicon, and the link to the CSS stylesheet.
+- **Header**: Includes a navigation bar with links to Gmail, Images, and the user profile.
+- **Main**: Contains the Google logo, the search bar with SVG icons, and buttons to perform the search.
+- **Footer**: Includes location information (Mexico) and links to pages such as About Google, Advertising, Business, etc.
 
 ### styles.css
 
-El archivo CSS define el estilo visual de la página, incluyendo:
+The CSS file defines the visual style of the page, including:
 
-- Diseño de la barra de navegación.
-- Estilo del logotipo y la barra de búsqueda.
-- Estilo de los botones.
-- Diseño del pie de página.
+- Design of the navigation bar.
+- Style of the logo and search bar.
+- Style of the buttons.
+- Design of the footer.
 
-## Cómo Ejecutar el Proyecto
+## How to Run the Project
 
-1. Clona el repositorio o descarga los archivos.
-2. Abre el archivo `index.html` en tu navegador web preferido.
+1. Clone the repository or download the files.
+2. Open the `index.html` file in your preferred web browser.
 
-## Recursos Utilizados
+## Resources Used
 
-- **HTML5**: Para la estructura de la página.
-- **CSS3**: Para el diseño y estilo de la página.
-- **Imágenes**: Utilizadas para el logotipo y el perfil de usuario.
-- **SVG**: Iconos para la barra de búsqueda.
+- **HTML5**: For the page structure.
+- **CSS3**: For the design and style of the page.
+- **Images**: Used for the logo and user profile.
+- **SVG**: Icons for the search bar.
 
-## Capturas de Pantalla
+## Contribution
 
-_Aquí puedes añadir capturas de pantalla del proyecto para mostrar cómo se ve la página._
+If you would like to contribute to this project, please follow these steps:
 
-## Contribución
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push your changes (`git push origin feature/new-feature`).
+5. Open a Pull Request.
 
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+## Author
 
-1. Haz un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
+This project was created by Azul. You can contact me at azularamk@gmail.com.
 
-## Autor
+## License
 
-Este proyecto fue creado por Azul. Puedes contactarme en azularamk@gmail.com.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
