@@ -1,63 +1,98 @@
-# Google Clone Project
+# 🌐 Google Clone Project
 
-This project is a recreation of Google's homepage using HTML and CSS. It is designed to practice frontend web development and layout using HTML and CSS.
+A simple and clean recreation of Google's homepage built using **HTML** and **CSS**.  
+This project focuses on practicing frontend layout structure, styling, alignment, and responsive design fundamentals without relying on JavaScript or frameworks.
 
-## Project Structure
+---
 
-The project consists of the following files:
+## 📁 Project Structure
 
-- `index.html`: The main file containing the HTML structure.
-- `styles.css`: The CSS file for styling the page.
-- `assets/`: Folder containing images used in the project (e.g., `google.webp`, `foto azul.png`, and `logo.png`).
+```
+clonGoogle/
+├── index.html        # Main HTML structure of the page
+├── styles.css        # Styling for layout, typography, and components
+└── assets/           # Images: google.webp, foto_azul.png, logo.png
+```
 
-## Deployment [(https://clon-google-omega.vercel.app/)]
+---
 
-## Content Description
+## 🚀 Live Demo
+
+📎 **Deployment:**  
+https://clon-google-omega.vercel.app/
+
+---
+
+## 🧩 Content Description
 
 ### index.html
+The HTML file includes:
 
-The HTML file contains the basic structure of the page, organized into different sections:
+- **Head:** Metadata, page title, favicon, stylesheet link.
+- **Header:** Navigation bar with links (Gmail, Images) and user avatar.
+- **Main Section:**  
+  - Google logo  
+  - Search bar with SVG icons  
+  - Buttons for search actions  
+- **Footer:**  
+  - Location (Mexico)  
+  - Links such as About, Advertising, Business, Privacy, Terms, etc.
 
-- **Head**: Contains document metadata, the page title, the favicon, and the link to the CSS stylesheet.
-- **Header**: Includes a navigation bar with links to Gmail, Images, and the user profile.
-- **Main**: Contains the Google logo, the search bar with SVG icons, and buttons to perform the search.
-- **Footer**: Includes location information (Mexico) and links to pages such as About Google, Advertising, Business, etc.
+---
 
-### styles.css
+## 🎨 styles.css
+Defines the full layout and design:
 
-The CSS file defines the visual style of the page, including:
+- Navigation bar styling  
+- Logo placement and sizing  
+- Search bar design (rounded edges, hover effects, icons)  
+- Button styling (hover/active states)  
+- Footer layout and typography  
 
-- Design of the navigation bar.
-- Style of the logo and search bar.
-- Style of the buttons.
-- Design of the footer.
+The goal is to replicate the clean, minimalist look of Google's homepage.
 
-## How to Run the Project
+---
 
-1. Clone the repository or download the files.
-2. Open the `index.html` file in your preferred web browser.
+## 🖥 How to Run the Project
 
-## Resources Used
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/AzulRK22/clonGoogle.git
+   ```
+2. Open the `index.html` file in any browser. No additional setup required.
 
-- **HTML5**: For the page structure.
-- **CSS3**: For the design and style of the page.
-- **Images**: Used for the logo and user profile.
-- **SVG**: Icons for the search bar.
+---
 
-## Contribution
+## 🛠 Technologies Used
 
-If you would like to contribute to this project, please follow these steps:
+- **HTML5** – Structure and semantics  
+- **CSS3** – Layout, spacing, colors, responsiveness  
+- **Images & SVGs** – Google logo, user profile, search icons  
 
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push your changes (`git push origin feature/new-feature`).
-5. Open a Pull Request.
+---
 
-## Author
+## 🤝 Contributions
 
-This project was created by Azul. You can contact me at azularamk@gmail.com.
+1. Fork the repo  
+2. Create a branch  
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Commit your changes  
+4. Push your branch  
+5. Open a Pull Request  
 
-## License
+---
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+## 👩‍💻 Author
+
+Created by **Azul**  
+Contact: **azularamk@gmail.com**  
+Portfolio: https://www.azulrk.com
+
+---
+
+## 📄 License
+
+Licensed under the **MIT License**.
+
